@@ -1,6 +1,7 @@
 MLP Classifier for Safeguarding Coral Reefs
 
 Overview
+
 This project is a machine learning initiative aimed at forecasting and mitigating ecological stress on coral reef ecosystems. Using a Multi-Layer Perceptron (MLP) model, the goal is to predict environmental threats and identify their primary causes, enabling proactive conservation efforts.
 
 Key Features
