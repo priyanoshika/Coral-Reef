@@ -1,7 +1,28 @@
-Developed a Multi-Layer Perceptron (MLP) model to forecast and mitigate ecological stress
-on coral reef ecosystems, focusing on eight critical features.
-Achieved a high classification accuracy of 97%, confirmed by metrics such as precision,
-recall, and F1-score, even with an unequal class distribution.
-Identified commercial activities as a primary environmental stressor contributing to coral
-bleaching using permutation importance analysis, and implemented a web-based interface
-using Flask for real-time assessments and conservation efforts.
+MLP Classifier for Safeguarding Coral Reefs
+
+Overview
+This project is a machine learning initiative aimed at forecasting and mitigating ecological stress on coral reef ecosystems. Using a Multi-Layer Perceptron (MLP) model, the goal is to predict environmental threats and identify their primary causes, enabling proactive conservation efforts.
+
+Key Features
+Predictive Modeling: Developed a Multi-Layer Perceptron (MLP) model to forecast ecological stress with high accuracy.
+
+High Accuracy: The model achieved a classification accuracy of 97%, demonstrating its effectiveness even with an unequal class distribution.
+
+Feature Analysis: Identified 9 critical features influencing coral reef health.
+
+Causal Insight: Used permutation importance analysis to identify commercial activities as a primary environmental stressor contributing to coral bleaching.
+
+Web-Based Interface: Implemented a web-based interface using Flask for real-time assessments and accessibility.
+
+Technologies & Libraries
+Programming Language: Python
+
+Core Libraries:
+
+NumPy and Pandas for data manipulation.
+
+Scikit-Learn for the MLP classifier and other machine learning tools.
+
+Matplotlib and Seaborn for data visualization.
+
+Flask for the web application.
